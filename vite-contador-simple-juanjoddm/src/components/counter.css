@@ -1,0 +1,20 @@
+.cronometro{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.num1,.num2,.num3,.num4,.clock{
+    background-color: black;
+    color: white;
+    font-size: 8rem;
+    border-radius: 1rem;
+}
+.clock{
+    font-size: 8rem;
+}
+.back{
+    background-color: aliceblue;
+}
+.titulo{
+    font-size: 10rem;
+    font-weight: bold;
+}
